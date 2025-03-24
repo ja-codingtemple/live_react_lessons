@@ -9,7 +9,7 @@ React is a JavaScript library developed by Facebook for creating user interfaces
 
 --------------------------------
 
-What IS JSX?
+WHAT IS JSX?
 
 JSX (JavaScript XML) is is a syntax extension for JavaScript that allows developers to write HTML and JavaScript in the same document.
 <br>JSX allows you to embed JavaScript expressions inside of HTML within the boundaries of curly braces {}
