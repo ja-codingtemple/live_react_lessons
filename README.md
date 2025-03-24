@@ -2,7 +2,7 @@
 
 WHAT IS REACT?
 
-<br>React is a JavaScript library developed by Facebook for creating user interfaces.
+React is a JavaScript library developed by Facebook for creating user interfaces.
 <br>It allows developers to create their own reusable UI components.
 <br>React uses something called the Virtual DOM which is essentially a virtual copy of the actual DOM (Document Object Model).
 <br>When attempting to update the DOM, it will update the Virtual DOM first and then change the actual DOM in an efficient manner later, changing only what is necessary.
@@ -41,7 +41,7 @@ Components in React have a lifecycle that begins upon creation and ends upon rem
 
 HOW DO I CREATE & RUN A REACT PROJECT?
 
-<br>There are a variety of ways to create React projects. The command we recommend using at CodingTemple is below:
+There are a variety of ways to create React projects. The command we recommend using at CodingTemple is below:
 
 <br>npx create-vite myproject --template react
 
