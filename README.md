@@ -54,4 +54,5 @@ HOW DO I CREATE & RUN A REACT PROJECT?
 <br>npm run dev is a script which will run your application and make it accessible via your browser.
 
 <br>If you get an error about being unable to find vite, rename the folder you're creating your project in to something simple without special characters or spaces, run this command: 
+
 <br>.\node_modules\.bin\vite
