@@ -45,13 +45,13 @@ There are a variety of ways to create React projects. The command we recommend u
 
 <br>npx create-vite myproject --template react
 
-<br>After running this command in your terminal, your project structure should be created for you.
+After running this command in your terminal, your project structure should be created for you.
 <br>From there, you must navigate into your folder, and then run these commands:
 
 <br>npm install
 <br>npm run dev
 
-<br>npm install will install all the dependencies and node modules defined in your package.json file.
+npm install will install all the dependencies and node modules defined in your package.json file.
 <br>npm run dev is a script which will run your application and make it accessible via your browser.
 
 <br>If you get an error about being unable to find vite, rename the folder you're creating your project in to something simple without special characters or spaces, run this command: 
