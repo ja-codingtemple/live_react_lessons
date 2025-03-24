@@ -43,17 +43,17 @@ HOW DO I CREATE & RUN A REACT PROJECT?
 
 There are a variety of ways to create React projects. The command we recommend using at CodingTemple is below:
 
-npx create-vite myproject --template react
+`npx create-vite myproject --template react`
 
 After running this command in your terminal, your project structure should be created for you.
 <br>From there, you must navigate into your folder, and then run these commands:
 
-npm install
-<br>npm run dev
+`npm install`
+<br>`npm run dev`
 
-npm install will install all the dependencies and node modules defined in your package.json file.
-<br>npm run dev is a script which will run your application and make it accessible via your browser.
+`npm install` will install all the dependencies and node modules defined in your package.json file.
+<br>`npm run dev` is a script which will run your application and make it accessible via your browser.
 
 If you get an error about being unable to find vite, rename the folder you're creating your project in to something simple without special characters or spaces, run this command: 
 
-.\node_modules\.bin\vite
+`.\node_modules\.bin\vite`
