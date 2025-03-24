@@ -31,6 +31,7 @@ From the official documentation, React components split the UI into independent,
 WHAT IS THE COMPONENT LIFECYCLE?
 
 Components in React have a lifecycle that begins upon creation and ends upon removal.
+
 <br>The three phases are:
 <br>- Mounting: This is when the component is created and rendered in the DOM.
 <br>- Updating: This is when the component updates due to a state or prop change.
