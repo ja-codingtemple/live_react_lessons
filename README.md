@@ -54,6 +54,6 @@ After running this command in your terminal, your project structure should be cr
 `npm install` will install all the dependencies and node modules defined in your package.json file.
 <br>`npm run dev` is a script which will run your application and make it accessible via your browser.
 
-If you get an error about being unable to find vite, rename the folder you're creating your project in to something simple without special characters or spaces, run this command: 
+If you get an error about being unable to find vite, rename the folder you're creating your project in to something simple without special characters or spaces, and run this command: 
 
 `.\node_modules\.bin\vite`
