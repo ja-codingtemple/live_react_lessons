@@ -1,13 +1,9 @@
---------------------------------
-
 ## WHAT IS REACT?
 
 React is a JavaScript library developed by Facebook for creating user interfaces.
 <br>It allows developers to create their own reusable UI components.
 <br>React uses something called the Virtual DOM which is essentially a virtual copy of the actual DOM (Document Object Model).
 <br>When attempting to update the DOM, it will update the Virtual DOM first and then change the actual DOM in an efficient manner later, changing only what is necessary.
-
---------------------------------
 
 ## WHAT IS JSX?
 
@@ -17,16 +13,12 @@ JSX (JavaScript XML) is is a syntax extension for JavaScript that allows develop
 Example:
 <p>Customer Name: {name}</p>
 
---------------------------------
-
 ## WHAT ARE COMPONENTS?
 
 From the official documentation, React components split the UI into independent, reusable pieces.
 <br>They are essentially JavaScript functions that accept input (props) and return React elements which describe what should appear on the screen.
 <br>You can think of them as effectively being your own custom HTML elements that also have the capacity to include more complicated JavaScript logic.
 <br>Components can be nested inside of each other the same way normal HTML elements can.
-
---------------------------------
 
 ## WHAT IS THE COMPONENT LIFECYCLE?
 
@@ -36,8 +28,6 @@ Components in React have a lifecycle that begins upon creation and ends upon rem
 <br>- Mounting: This is when the component is created and rendered in the DOM.
 <br>- Updating: This is when the component updates due to a state or prop change.
 <br>- Unmounting: This is when the component is removed from the DOM.
-
---------------------------------
 
 ## HOW DO I CREATE & RUN A REACT PROJECT?
 
