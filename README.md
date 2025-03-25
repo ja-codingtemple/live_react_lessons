@@ -26,7 +26,7 @@ You can think of them as effectively being your own custom HTML elements that al
 
 Components in React have a lifecycle that begins upon creation and ends upon removal.
 
-<br>The three phases are:
+The three phases are:
 <br>- Mounting: This is when the component is created and rendered in the DOM.
 <br>- Updating: This is when the component updates due to a state or prop change.
 <br>- Unmounting: This is when the component is removed from the DOM.
