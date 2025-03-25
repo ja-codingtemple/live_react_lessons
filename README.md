@@ -12,6 +12,7 @@ JSX (JavaScript XML) is is a syntax extension for JavaScript that allows develop
 <br>JSX allows you to embed JavaScript expressions inside of HTML within the boundaries of curly braces {}
 
 Example:
+
 `<p>Customer Name: {name}</p>`
 
 ## What are components?
