@@ -1,8 +1,8 @@
 ## What is React?
 
 React is a JavaScript library developed by Facebook for creating user interfaces. It allows developers to create their own reusable UI components.
-<br>React uses something called the Virtual DOM which is essentially a virtual copy of the actual DOM (Document Object Model).
-<br>When attempting to update the DOM, it will update the Virtual DOM first and then change the actual DOM in an efficient manner later, changing only what is necessary.
+
+React uses something called the Virtual DOM which is essentially a virtual copy of the actual DOM (Document Object Model). When attempting to update the DOM, it will update the Virtual DOM first and then change the actual DOM in an efficient manner later, changing only what is necessary.
 
 ## What is JSX?
 
