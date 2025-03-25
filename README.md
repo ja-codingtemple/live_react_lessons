@@ -17,8 +17,10 @@ Example:
 ## What are components?
 
 From the official documentation, React components split the UI into independent, reusable pieces.
-<br>They are essentially JavaScript functions that accept input (props) and return React elements which describe what should appear on the screen.
-<br>You can think of them as effectively being your own custom HTML elements that also have the capacity to include more complicated JavaScript logic. Components can be nested inside of each other the same way normal HTML elements can.
+
+They are essentially JavaScript functions that accept input (props) and return React elements which describe what should appear on the screen.
+
+You can think of them as effectively being your own custom HTML elements that also have the capacity to include more complicated JavaScript logic. Components can be nested inside of each other the same way normal HTML elements can.
 
 ## What is the component lifecycle?
 
