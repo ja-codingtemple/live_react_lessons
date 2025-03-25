@@ -1,6 +1,6 @@
 --------------------------------
 
-WHAT IS REACT?
+## WHAT IS REACT?
 
 React is a JavaScript library developed by Facebook for creating user interfaces.
 <br>It allows developers to create their own reusable UI components.
@@ -9,7 +9,7 @@ React is a JavaScript library developed by Facebook for creating user interfaces
 
 --------------------------------
 
-WHAT IS JSX?
+## WHAT IS JSX?
 
 JSX (JavaScript XML) is is a syntax extension for JavaScript that allows developers to write HTML and JavaScript in the same document.
 <br>JSX allows you to embed JavaScript expressions inside of HTML within the boundaries of curly braces {}
@@ -19,7 +19,7 @@ Example:
 
 --------------------------------
 
-WHAT ARE COMPONENTS?
+## WHAT ARE COMPONENTS?
 
 From the official documentation, React components split the UI into independent, reusable pieces.
 <br>They are essentially JavaScript functions that accept input (props) and return React elements which describe what should appear on the screen.
@@ -28,7 +28,7 @@ From the official documentation, React components split the UI into independent,
 
 --------------------------------
 
-WHAT IS THE COMPONENT LIFECYCLE?
+## WHAT IS THE COMPONENT LIFECYCLE?
 
 Components in React have a lifecycle that begins upon creation and ends upon removal.
 
@@ -39,7 +39,7 @@ Components in React have a lifecycle that begins upon creation and ends upon rem
 
 --------------------------------
 
-HOW DO I CREATE & RUN A REACT PROJECT?
+## HOW DO I CREATE & RUN A REACT PROJECT?
 
 There are a variety of ways to create React projects. The command we recommend using at CodingTemple is below:
 
