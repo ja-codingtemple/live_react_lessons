@@ -8,7 +8,7 @@ When attempting to update the DOM, it will update the Virtual DOM first and then
 
 ## What is JSX?
 
-JSX (JavaScript XML) is is a syntax extension for JavaScript that allows developers to write HTML and JavaScript in the same document.
+JSX (JavaScript XML) is a syntax extension for JavaScript that allows developers to write HTML and JavaScript in the same document.
 <br>JSX allows you to embed JavaScript expressions inside of HTML within the boundaries of curly braces {}
 
 Example:
