@@ -22,3 +22,22 @@ Bootstrap Documentation: https://getbootstrap.com/
 React Bootstrap replaces Bootstrap JavaScript (the original bootstrap). It is rebuilt with React. Essentially, it is a collection of React components which we can import into our projects, each of which utilizes many of the CSS classes defined in the original Bootstrap framework.
 
 React Bootstrap Documentation: https://react-bootstrap.netlify.app/
+
+## How do I create & run a React project?
+
+There are a variety of ways to create React projects. The command we recommend using at CodingTemple is below:
+
+`npx create-vite myproject --template react`
+
+After running this command in your terminal, your project structure should be created for you.
+<br>From there, you must navigate into your folder, and then run these commands:
+
+`npm install`
+<br>`npm run dev`
+
+`npm install` will install all the dependencies and node modules defined in your package.json file.
+<br>`npm run dev` is a script which will run your application and make it accessible via your browser.
+
+If you get an error about being unable to find vite, rename the folder you're creating your project in to something simple without special characters or spaces, and run this command: 
+
+`.\node_modules\.bin\vite`
