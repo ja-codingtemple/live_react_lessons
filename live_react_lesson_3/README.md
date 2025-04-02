@@ -13,7 +13,11 @@ When you use an if-statement in programming, you are causing code to execute con
 ## How do we handle events in React?
 In React, we can handle events by creating a function to handle the event, and then passing that function to the event, like this:
 
-const greetMe = () => {
-    alert("Hello, friend!");
-};
-<button onClick={greetMe}>Click me!</button>
+``const greetMe = () => {``
+
+   ``alert("Hello, friend!");``
+   
+``};``
+
+
+``<button onClick={greetMe}>Click me!</button>``
