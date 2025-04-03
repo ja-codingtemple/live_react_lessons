@@ -23,14 +23,9 @@ React Bootstrap replaces Bootstrap JavaScript (the original bootstrap). It is re
 
 React Bootstrap Documentation: https://react-bootstrap.netlify.app/
 
-## How do I create & run a React project?
+## How do I run this React project?
 
-There are a variety of ways to create React projects. The command we recommend using at CodingTemple is below:
-
-`npx create-vite myproject --template react`
-
-After running this command in your terminal, your project structure should be created for you.
-<br>From there, you must navigate into your folder, and then run these commands:
+<br>First, clone the repository. Then, navigate into your project folder, open Terminal, and then run these commands:
 
 `npm install`
 <br>`npm run dev`
