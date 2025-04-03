@@ -18,7 +18,7 @@ Bootstrap is a CSS framework, which is essentially a gigantic CSS file which def
 
 Bootstrap Documentation: https://getbootstrap.com/
 
-# What is React Bootsrap?
+# What is React Boostrap?
 React Bootstrap replaces Bootstrap JavaScript (the original bootstrap). It is rebuilt with React. Essentially, it is a collection of React components which we can import into our projects, each of which utilizes many of the CSS classes defined in the original Bootstrap framework.
 
 React Bootstrap Documentation: https://react-bootstrap.netlify.app/
