@@ -23,9 +23,8 @@ React Bootstrap replaces Bootstrap JavaScript (the original bootstrap). It is re
 
 React Bootstrap Documentation: https://react-bootstrap.netlify.app/
 
-## How do I run this React project?
-
-<br>First, clone the repository. Then, navigate into your project folder, open Terminal, and then run these commands:
+# How do I run this React project?
+First, clone the repository. Then, navigate into your project folder, open Terminal, and then run these commands:
 
 `npm install`
 <br>`npm run dev`
